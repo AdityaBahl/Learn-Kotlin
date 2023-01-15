@@ -2,15 +2,6 @@
 
 ![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
 
-## Technologies Used
-
-1. **HTML**
-2. **CSS**
-3. **Vanilla JavaScript**
-4. **Node.js**
-5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
-6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
-
 ## Why Wordle?
 
 Kotlin is a programming language that was developed by JetBrains, a software development company based in Russia. It is a cross-platform, statically-typed, and open-source language that is fully interoperable with Java.
