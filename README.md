@@ -1,4 +1,4 @@
-# Wordle Game Using Node.js and APIs
+# KOTLIN
 
 ![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
 
@@ -11,37 +11,29 @@
 5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
 6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
 
-## Getting Started
-
-To start this project please go to **RapidAPI** to sign up for the [APIs](https://bit.ly/rapidapi-hub).
-
-### `.env`
-
-Now create a `.env` file in the root of your project with the following:
-
-```
-RAPID_API_KEY={your_rapid_api_key}
-```
-
-To run this project please type the following commands:
-
-### `npm i`
-
-This will install all the necessary dependencies.
-
-### `npm run start:backend`
-
-This will start the backend on [http://localhost:8000](http://localhost:8000).
-
-### `copy the path to your index.html file`
-
-Copy the path to this file and paste it in your browser to see the game and play.
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 ## Why Wordle?
 
-**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+Kotlin is a programming language that was developed by JetBrains, a software development company based in Russia. It is a cross-platform, statically-typed, and open-source language that is fully interoperable with Java.
+
+There are several reasons why someone might choose to use Kotlin:
+
+1. Interoperability with Java: Since Kotlin is fully interoperable with Java, developers can use existing Java code and libraries in their Kotlin projects, and Java developers can easily start using Kotlin in their projects.
+
+2. Improved readability and conciseness: Kotlin's syntax is designed to be more readable and concise than Java, which makes the code easier to understand and maintain.
+
+3. Improved safety: Kotlin's type system is designed to prevent common programming errors, such as null pointer exceptions, which can make the code more reliable and less prone to crashes.
+
+4. Improved performance: Kotlin's design aims to improve performance by minimizing the overhead of the language runtime.
+
+5. Modern features : Kotlin has some modern features like coroutines, data classes, sealed classes, extension functions which makes it more expressive and powerful than Java.
+
+6. Android support: Kotlin is officially supported by Google as a first-class language for developing Android apps. It can help to improve the development speed and reduce the number of errors.
+
+7. Growing community: Kotlin's community is growing fast and has a lot of resources and libraries, which makes it easier to find help and solutions to problems.
+
+8. Industry adoption: Kotlin is gaining popularity among industry and many big companies like Netflix, Uber, Trello, Pinterest, etc using it in their production.
+
+Overall, Kotlin is a modern, powerful, and versatile language that provides many benefits over Java, making it a good choice for developing a wide range of applications. It's a good alternative for developers who are looking for a more expressive, reliable, and efficient language.
 
 ## Algorithm
 
