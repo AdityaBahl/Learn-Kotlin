@@ -2,6 +2,7 @@
 *.gradle
 *.jar
 *.class
+/META-INF
 /local.properties
 /.idea/caches
 /.idea/libraries
