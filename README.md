@@ -1,6 +1,6 @@
 # Learn KOTLIN
 
-![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
+![image](https://github.com/AdityaBahl/Learn-Kotlin/blob/main/logo.png)
 
 ## Why Kotlin?
 
@@ -8,21 +8,21 @@ Kotlin is a programming language that was developed by JetBrains, a software dev
 
 There are several reasons why someone might choose to use Kotlin:
 
-1. Interoperability with Java: Since Kotlin is fully interoperable with Java, developers can use existing Java code and libraries in their Kotlin projects, and Java developers can easily start using Kotlin in their projects.
+1. **_Interoperability with Java:_** Since Kotlin is fully interoperable with Java, developers can use existing Java code and libraries in their Kotlin projects, and Java developers can easily start using Kotlin in their projects.
 
-2. Improved readability and conciseness: Kotlin's syntax is designed to be more readable and concise than Java, which makes the code easier to understand and maintain.
+2. **_Improved readability and conciseness:_** Kotlin's syntax is designed to be more readable and concise than Java, which makes the code easier to understand and maintain.
 
-3. Improved safety: Kotlin's type system is designed to prevent common programming errors, such as null pointer exceptions, which can make the code more reliable and less prone to crashes.
+3. **_Improved safety:_** Kotlin's type system is designed to prevent common programming errors, such as null pointer exceptions, which can make the code more reliable and less prone to crashes.
 
-4. Improved performance: Kotlin's design aims to improve performance by minimizing the overhead of the language runtime.
+4. **_Improved performance:_** Kotlin's design aims to improve performance by minimizing the overhead of the language runtime.
 
-5. Modern features : Kotlin has some modern features like coroutines, data classes, sealed classes, extension functions which makes it more expressive and powerful than Java.
+5. **_Modern features :_** Kotlin has some modern features like coroutines, data classes, sealed classes, extension functions which makes it more expressive and powerful than Java.
 
-6. Android support: Kotlin is officially supported by Google as a first-class language for developing Android apps. It can help to improve the development speed and reduce the number of errors.
+6. **_Android support:_** Kotlin is officially supported by Google as a first-class language for developing Android apps. It can help to improve the development speed and reduce the number of errors.
 
-7. Growing community: Kotlin's community is growing fast and has a lot of resources and libraries, which makes it easier to find help and solutions to problems.
+7. Growing community:\*\*\* Kotlin's community is growing fast and has a lot of resources and libraries, which makes it easier to find help and solutions to problems.
 
-8. Industry adoption: Kotlin is gaining popularity among industry and many big companies like Netflix, Uber, Trello, Pinterest, etc using it in their production.
+8. **_Industry adoption:_** Kotlin is gaining popularity among industry and many big companies like Netflix, Uber, Trello, Pinterest, etc using it in their production.
 
 Overall, Kotlin is a modern, powerful, and versatile language that provides many benefits over Java, making it a good choice for developing a wide range of applications. It's a good alternative for developers who are looking for a more expressive, reliable, and efficient language.
 
