@@ -1,8 +1,8 @@
-# KOTLIN
+# Learn KOTLIN
 
 ![image](https://github.com/AdityaBahl/Wordle-Game/blob/main/sample.png)
 
-## Why Wordle?
+## Why Kotlin?
 
 Kotlin is a programming language that was developed by JetBrains, a software development company based in Russia. It is a cross-platform, statically-typed, and open-source language that is fully interoperable with Java.
 
