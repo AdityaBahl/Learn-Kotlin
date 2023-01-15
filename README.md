@@ -1,6 +1,7 @@
 # Learn KOTLIN
 
 ![image](https://github.com/AdityaBahl/Learn-Kotlin/blob/main/logo.png)
+![logo](https://user-images.githubusercontent.com/90335449/212564597-4cfcde0c-abb0-40cf-859c-ebc72241b7f8.png)
 
 ## Why Kotlin?
 
